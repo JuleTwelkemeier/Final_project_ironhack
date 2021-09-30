@@ -1,4 +1,4 @@
-# RYDES: business analysis
+# Predictive lead scoring model for RYDES
 
 #### Table of contents
 1. Introduction
