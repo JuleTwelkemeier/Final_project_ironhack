@@ -1,18 +1,18 @@
 # RYDES: business analysis
 
-Table of contents
-Introduction
-Business Problem Statement
-Tools
-Workflow
-Insights
-Repository contents
+#### Table of contents
+1. Introduction
+2. Business Problem Statement
+3. Project objective
+4. Tools
+5. Workflow
+6. Insights
+7. Repository contents
 
 ## Introduction
-This is a data analytics project focusing on predict a lead scoring for RYDES, so that the sales team can focus on the leads that are most likely to convert which in turn leads to increased revenue for RYDES. The dataset used comes from the CRM system Hubspot.
+This is a data analytics project focusing on predict a lead scoring for RYDES.
 
-
-Data Source:
+Data Source: LINK
 
 
 ### About RYDES
@@ -26,6 +26,11 @@ LIH spun off the startup RYDES in February 2021. Porsche and the Lufthansa Group
 ## Business problem statement
 How can RYDES identify the highest potential leads to increase lead conversion and ultimately revenue?
 
+## Objective
+Providing predictive lead scoring so that the sales team can focus on the leads that are most likely to convert which in turn leads to increased revenue for RYDES. The dataset used comes from the CRM system Hubspot.
+
+TBD:
+Providing a list of businesses which are according to the lead scoring would be likely to convert.
 
 
 ## Tools
