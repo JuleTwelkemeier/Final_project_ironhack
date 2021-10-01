@@ -12,7 +12,7 @@
 ## Introduction
 This is a data analytics project focusing on predict a lead scoring for RYDES.
 
-Data Source: LINK
+Data Source: Hubspot data and Google Analytics.
 
 
 ### About RYDES
@@ -44,8 +44,12 @@ Libraries used (pandas, ...)
 
 ## Workflow
 
-1. Datacleaning
-2. 
+1. Data gathering
+2. Data cleaning
+3. Data preprocessing
+4. Plotting/ Visualitation
+5. Machine learning models
+
 
 
 ## Insights
