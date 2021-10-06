@@ -1,4 +1,4 @@
-# Predictive lead scoring model for RYDES
+# Predictive lead scoring model for X Education
 
 #### Table of contents
 1. Introduction
