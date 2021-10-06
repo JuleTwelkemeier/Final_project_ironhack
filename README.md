@@ -75,10 +75,11 @@ Variables Description
 
 ## Workflow
 
-1. Data cleaning
-2. Data preprocessing
+1. Data Cleaning
+2. Data Preprocessing
 3. Classification Models
 4. Feature Importance
+5. Lead Scoring
 
 
 ## Insights
