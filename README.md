@@ -71,7 +71,6 @@ Variables Description
 - Last Notable Activity - The last notable activity performed by the student.
 
 
-
 ## Workflow
 
 1. Data Cleaning
@@ -79,8 +78,5 @@ Variables Description
 3. Classification Models
 4. Feature Importance
 5. Lead Scoring
-
-
-
 
 
