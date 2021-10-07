@@ -6,8 +6,7 @@
 3. Project objective
 4. Tools
 5. Workflow
-6. Insights
-7. Repository contents
+
 
 ## Introduction
 This is a data analytics project focusing on predict a lead scoring for X Education.
@@ -26,7 +25,7 @@ Through this process, some of the leads get converted while most do not. The typ
 Now, although X Education gets a lot of leads, its lead conversion rate is very poor. For example, if, say, they acquire 100 leads in a day, only about 30 of them are converted. To make this process more efficient, the company wishes to identify the most potential leads, also known as ‘Hot Leads’. If they successfully identify this set of leads, the lead conversion rate should go up as the sales team will now be focusing more on communicating with the potential leads rather than making calls to everyone.
 
 ## Objective
-X Education wants to select the most promising leads, i.e. the leads that are most likely to convert into paying customers. The company requires you to build a model wherein you need to assign a lead score to each of the leads such that the customers with higher lead score h have a higher conversion chance and the customers with lower lead score have a lower conversion chance. The CEO, in particular, has given a ballpark of the target lead conversion rate to be around 80%.
+X Education wants to select the most promising leads, i.e. the leads that are most likely to convert into paying customers. The company requires  a model wherein a lead score is assigned to each of the leads such that the customers with higher lead score h have a higher conversion chance and the customers with lower lead score have a lower conversion chance. The CEO, in particular, has given a ballpark of the target lead conversion rate to be around 80%.
 
 
 ## Dataset-content
@@ -82,12 +81,6 @@ Variables Description
 5. Lead Scoring
 
 
-## Insights
 
-
-## Conclusion and recommendations
-
-
-## Repository contents
 
 
